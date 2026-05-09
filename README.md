@@ -24,8 +24,8 @@
 ##  Estatísticas
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=therealsnowdev&show_icons=true&theme=tokyonight" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealsnowdev&layout=compact&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ghosttobygg&show_icons=true&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghosttobygg&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -53,4 +53,4 @@ Deuteronômio Cap. 5
 ---
 
 <p>
- Feito com Muito ❤️ e Muito ☕  Por  Snow.</p>
+ Made with lots of ❤️ and lots of ☕ by Snow.</p>
