@@ -53,4 +53,4 @@ Deuteronômio Cap. 5
 ---
 
 <p>
- Made with lots of ❤️ and lots of ☕ by Snow.</p>
+ Made with lots of ❤️ and lots of ☕ by Xanax.</p>
